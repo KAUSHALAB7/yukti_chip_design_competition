@@ -1,0 +1,22 @@
+# Build artifacts
+**/build/
+**/obj_dir/
+**/logs/
+**/waves/
+*.vcd
+*.vvp
+*.out
+*.hex
+*.bin
+
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated reports
+**/reports/
+
+# Python cache (if any)
+__pycache__/
+*.pyc
