@@ -318,7 +318,7 @@ mat_a[6] mat_a[7] mat_a[8]     A[2][0] A[2][1] A[2][2]
 ##  Team
 
 **Team KAB**
-- Competition: 4-Hour VLSI Hackathon
+- Competition: 8-Hour VLSI Hackathon
 - Server: guest18@192.168.30.91
 - Date: November 7, 2025
 
