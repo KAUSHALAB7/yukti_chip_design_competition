@@ -197,7 +197,7 @@ Core MAC unit
 
 
 
-- **scripts/** - Synthesis and build automation## 🚀 Quick Start
+- **scripts/** - Synthesis and build automation
 
 
 
