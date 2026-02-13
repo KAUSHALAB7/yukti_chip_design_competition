@@ -318,8 +318,7 @@ mat_a[6] mat_a[7] mat_a[8]     A[2][0] A[2][1] A[2][2]
 ##  Team
 
 **Team KAB**
-- Competition: 8-Hour VLSI Hackathon
-- Server: guest18@192.168.30.91
+- Competition: 8-Hour Yukti Chip Design Hackathon [IIIT Dharwad]
 - Date: November 7, 2025
 
 ##  Notes
@@ -459,10 +458,10 @@ That document contains everything you need to understand how the system works, w
 
 ## Project Background
 
-This was developed for a VLSI design competition on November 7-8, 2024. The goal was to create a hardware accelerator that could speed up matrix multiplication operations, integrated with a real processor to show how hardware and software work together in a complete system.
+This was developed for a VLSI design competition on November 7, 2024. The goal was to create a hardware accelerator that could speed up matrix multiplication operations, integrated with a real processor to show how hardware and software work together in a complete system.
 
 ---
 
 **Team**: KAB  
-**Competition**: VLSI Design Hackathon  
+**Competition**: Yukti Chip Design Hackathon  
 **Status**: Design complete and verified, ready for synthesis
